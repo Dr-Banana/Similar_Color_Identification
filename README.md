@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #  Similar_Color_Identification
 
 ##  ABSTRACT
